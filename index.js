@@ -1,7 +1,6 @@
 function fetchBooks() {
   //write fetch request to the Game of Thrones API
 }
-
 document.addEventListener('DOMContentLoaded', function() {
   fetchBooks(){
     fetch('https://anapioficeandfire.com/api/books')
